@@ -2,14 +2,22 @@
 
 ### Full-Stack Web Development
 
-Blah
+Blah blah blah
+
+- Words
+- Words
+- Words
 
 ### Node.js Understanding
 
-'''js
+```js
 console.log("It's Java I guess?");
-'''
+```
 
-## Version Control, Git, & GitHub
+### Version Control, Git, & GitHub
 
-## Markdown & Documentation
+| Command  | What it does                        |
+| -------- | ----------------------------------- |
+| git push | Pushing your code into GitHub space |
+
+### Markdown & Documentation
